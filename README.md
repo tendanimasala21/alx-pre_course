@@ -1,2 +1,2 @@
 My first readme 
-Git projrct
+Git project
